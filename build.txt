@@ -1,0 +1,3 @@
+author = Shilo and Savannah
+version = 0.1
+displayName = Enchanted Mirrors
